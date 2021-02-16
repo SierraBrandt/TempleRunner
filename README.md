@@ -1,5 +1,5 @@
 # TempleRunner
-Unity game created for CS3 class
+Simple Unity game created for CS3 class
 
 Download ZIP file & run .exe Unity executiable 
 
