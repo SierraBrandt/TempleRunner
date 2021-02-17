@@ -1,7 +1,7 @@
 # TempleRunner
 Simple Unity game created for CS3 class
 
-Download ZIP file & run .exe Unity executiable 
+Download ZIP file & run .exe Unity executiable (for Windows)
 
 "Lost under the great pyramids, a lone explorer must find all of the diamonds to escape the dark maze. Don't find the diamonds within the time limit? You lose. But be careful of the dungeon monsters, who will try and slow you down..."
 
